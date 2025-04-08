@@ -1,0 +1,7 @@
+
+# Ignorar archivos HTML y TeX en el análisis de lenguaje
+*.html linguist-vendored
+*.tex linguist-vendored
+
+# Asegurar que los archivos Python sean detectados
+*.py linguist-detectable=true
