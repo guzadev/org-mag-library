@@ -1,0 +1,13 @@
+
+# Archivos y carpetas generadas automáticamente
+org-mag-library.xlsx
+*.pyc
+__pycache__/
+dist/
+build/
+*.spec
+
+# Entornos virtuales
+env/
+venv/
+.venv/
